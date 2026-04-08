@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Motion Geometry, please cite it using this metadata."
+title: "Motion Geometry: A Natural History of Cognitive Mobility"
+authors:
+  - family-names: "ROS Collective"
+    given-names: ""
+version: "1.0.0"
+date-released: "2026-04-08"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/<your-username>/Motion_Geometry"
+keywords:
+  - cognitive mobility
+  - field geometry
+  - motion
+  - curvature
+  - collapse
+  - reconstitution
+  - alignment
+  - stability
+  - renormalization
