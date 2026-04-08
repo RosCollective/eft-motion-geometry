@@ -32,6 +32,10 @@ If you use or reference this work, please cite:
 
 > The ROS Collective (2026). *Motion Geometry (EFT): A Natural History of Cognitive Mobility as observed in human–machine interaction* (v.1.0.0).
 
+For citations that should always resolve to the latest version, you may use the concept DOI:
+
+> https://doi.org/10.5281/zenodo.19474295
+
 ---
 
 ## Version
