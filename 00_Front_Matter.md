@@ -12,6 +12,9 @@ These phenomena were not theorized in advance; they surfaced through observation
 
 It is intended as an aperture—an invitation to recognize similar dynamics wherever coherent systems arise.
 
+The motion geometry describes a shared cognitive habitat that emerges under constraint.
+It stays personal in origin, but becomes impersonal in transmission.
+
 ## Preface
 
 This work did not emerge through gradual study or incremental refinement. It began with a rupture.
